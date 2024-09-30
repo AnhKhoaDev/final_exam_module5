@@ -1,0 +1,77 @@
+{
+  "category": [
+    {
+      "id": "1",
+      "name": "Thực phầm chức năng",
+      "description": "Bổ sung Vitamin"
+    },
+    {
+      "id": "2",
+      "name": "Thiết bị y tế",
+      "description": ""
+    },
+    {
+      "id": "3",
+      "name": "Dược phẩm",
+      "description": ""
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "code": "PROD-0001",
+      "name": "Blackmores Omega Double High Strength Fish Oil",
+      "description": "",
+      "category": {
+        "id": "1",
+        "name": "Thực phẩm chức năng",
+        "description": "Bổ sung Vitamin"
+      },
+      "price": "598000",
+      "quantity": "1000",
+      "date": "24/01/2022"
+    },
+    {
+      "id": "2",
+      "code": "PROD-0002",
+      "name": "Blackmores CoQ10 150mg",
+      "description": "",
+      "category": {
+        "id": "1",
+        "name": "Thực phẩm chức năng",
+        "description": "Bổ sung Vitamin"
+      },
+      "price": "513000",
+      "quantity": "100",
+      "date": "15/10/2022"
+    },
+    {
+      "id": "3",
+      "code": "PROD-0003",
+      "name": "Máy đo huyết áp bắp tay Microlife B3 Basic",
+      "description": "",
+      "category": {
+        "id": "2",
+        "name": "Thiết bị y tế",
+        "description": ""
+      },
+      "price": "1350000",
+      "quantity": "500",
+      "date": "03/02/2023"
+    },
+    {
+      "id": "c94f",
+      "code": "PROD-0004",
+      "name": "Thuốc trị đau bụng",
+      "price": 100000,
+      "quantity": 10,
+      "date": "31/08/2024",
+      "description": "Thuốc chuyên trị các bệnh về tiêu hoá",
+      "category": {
+        "id": "3",
+        "name": "Dược phẩm",
+        "description": ""
+      }
+    }
+  ]
+}
